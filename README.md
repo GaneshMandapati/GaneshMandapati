@@ -1,4 +1,4 @@
-### Hi My name is GaneshMandapati. I'm a computer science engineer.👋
+### Hi My name is Mandapati Ganesh. I'm a computer science engineer.👋
 I'm actively looking for Software Developer Internship.
 - 🔭 I’m currently working on React js and Java.
 - 🌱 I’m currently learning Node Js.
